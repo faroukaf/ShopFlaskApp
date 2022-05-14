@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Home Page
+{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <h1>Home Page</h1>
+    <a class="btn btn-primary" href="{{ url_for('market_page') }}">Start</a>
+</div>
+{% endblock %}
