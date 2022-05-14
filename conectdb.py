@@ -2,6 +2,7 @@ from market import db
 from market.dbmodels import Item, User
 
 db.session.create_all()
+db.session.commit()
 
 i1 = Item(
     name="IPhone",
