@@ -1,0 +1,33 @@
+astroid==2.2.5
+bcrypt==3.2.2
+certifi==2021.10.8
+cffi==1.15.0
+click @ file:///C:/ci/click_1646038601470/work
+colorama==0.4.1
+dnspython==2.2.1
+email-validator==1.2.1
+Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+Flask-Bcrypt==1.0.1
+Flask-Login==0.6.1
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.1
+greenlet==1.1.2
+idna==3.3
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
+isort==4.3.21
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+lazy-object-proxy==1.4.1
+MarkupSafe @ file:///C:/ci/markupsafe_1621528383308/work
+mccabe==0.6.1
+pycparser==2.21
+pylint==2.3.1
+six==1.12.0
+SQLAlchemy==1.4.36
+typed-ast==1.4.0
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+wincertstore==0.2
+wrapt==1.11.2
+WTForms==3.0.1
+zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
